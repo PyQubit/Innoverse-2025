@@ -7,7 +7,7 @@ Transform Your Emotions into **AI-Generated Artworks**
 
 ## 📌 Table of Contents | فهرست مطالب
 
-* [👋 Introduction | مقدمه](#introduction)
+* [👋 Introduction | مقدمه](#Introduction)
 * [⚙️ How It Works | نحوه عملکرد](#how-it-works)
 * [🖼️ Samples | نمونه‌ها](#samples)
 * [📥 Installation & Setup | نصب و راه‌اندازی](#installation--setup)
@@ -18,7 +18,7 @@ Transform Your Emotions into **AI-Generated Artworks**
 
 ---
 
-## 👋 Introduction | مقدمه (#introduction)
+## 👋 Introduction | مقدمه 
 
 
 **English:**
