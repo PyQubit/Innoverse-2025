@@ -14,6 +14,7 @@ Transform Your Emotions into **AI-Generated Artworks**
 * [🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی](#-debug--troubleshooting--خطاها-و-اشکال‌زدایی)
 * [👥 Team Members | اعضای تیم](#-team-members--اعضای‌تیم)
 * [🏆 Achievements | افتخارات](#-achievements--افتخارات)
+* [📱 Contact | تماس](#-contact--تماس)
 
 ---
 
@@ -34,8 +35,6 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 * **Whisper** – تبدیل گفتار به متن
 * **Ollama (Gemma3:4b)** – تشخیص احساسات
 * **Replicate (Imagen backend)** – تولید اثر هنری
-
-برای اطلاعات بیشتر به سایت رسمی مراجعه کنید: [Innoverse 2025](http://innoverse.world)
 
 ---
 
@@ -156,7 +155,16 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 
 ---
 
+## 📱 Contact | تماس
+
+[![Instagram](https://img.shields.io/badge/Instagram-PyQubit-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/PyQubit)
+[![Telegram](https://img.shields.io/badge/Telegram-PyQubit-0088cc?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/PyQubit)
+[![Email](https://img.shields.io/badge/Email-PyQubit%40Gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:PyQubit@gmail.com)
+
+---
+
 © 2025 **AI Emotion-to-Art Team2** — *Gold Medal Winner, AI Section, Innoverse 2025*
+
 
 
 
