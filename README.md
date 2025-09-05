@@ -1,6 +1,7 @@
 # 🎨 AI Emotion-to-Art Team2
 
 Transform Your Emotions into **AI-Generated Artworks**
+
 تبدیل احساسات شما به **آثار هنری تولیدشده توسط هوش مصنوعی**
 
 ---
@@ -90,7 +91,8 @@ export REPLICATE_API_TOKEN="your_token_here"
 setx REPLICATE_API_TOKEN "your_token_here"
 
 # Run Gradio application
-python app.py
+Open The local URL
+
 ```
 
 ---
