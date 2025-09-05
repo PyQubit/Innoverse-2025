@@ -17,8 +17,9 @@ Transform Your Emotions into **AI-Generated Artworks**
 * [📱 Contact | تماس](#contact)
 
 ---
-#introduction
-## 👋 Introduction | مقدمه
+
+## 👋 Introduction | مقدمه (#introduction)
+
 
 **English:**
 Team 2 is a **Gold Medal Winner** in the **AI Section** of the **Innoverse 2025 International Invention & Innovation Expo**, held on **August 24, 2025**. This expo focused on Metaverse and blockchain technologies and featured over 30 judging categories. Our project converts user emotions (text, voice, image) into symbolic visual artworks using advanced AI technologies:
