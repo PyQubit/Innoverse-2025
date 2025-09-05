@@ -1,11 +1,11 @@
-# AI Emotion-to-Art Team2
+# 🎨 AI Emotion-to-Art Team2
 
 Transform Your Emotions into **AI-Generated Artworks**
 تبدیل احساسات شما به **آثار هنری تولیدشده توسط هوش مصنوعی**
 
 ---
 
-## Table of Contents | فهرست مطالب
+## 📌 Table of Contents | فهرست مطالب
 
 * [Introduction | مقدمه](#introduction)
 * [How It Works | نحوه عملکرد](#how-it-works)
@@ -164,4 +164,3 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 ---
 
 © 2025 **AI Emotion-to-Art Team2** — *Gold Medal Winner, AI Section, Innoverse 2025*
-
