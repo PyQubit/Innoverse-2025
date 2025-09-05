@@ -160,4 +160,4 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 
 ---
 
-© 2025 **AI Emotion-to-Art Team2** — *Gold Medal Winner, AI Section, Innoverse 2025*
+© 2025 **Mohammad Mahdi Omidvar** — *Gold Medal Winner, AI Section, Innoverse 2025*
