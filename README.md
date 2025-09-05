@@ -1,25 +1,24 @@
-# 🎨 AI Emotion-to-Art Team2
+# AI Emotion-to-Art Team2
 
 Transform Your Emotions into **AI-Generated Artworks**
-
 تبدیل احساسات شما به **آثار هنری تولیدشده توسط هوش مصنوعی**
 
 ---
 
-## 📌 Table of Contents | فهرست مطالب
+## Table of Contents | فهرست مطالب
 
-* [Introduction | مقدمه](#introduction--مقدمه)
-* [How It Works | نحوه عملکرد](#how-it-works--نحوه-عملکرد)
-* [Samples | نمونه‌ها](#samples--نمونه‌ها)
-* [Installation & Setup | نصب و راه‌اندازی](#installation--setup--نصب-و-راه‌اندازی)
-* [Debug / Troubleshooting | خطاها و اشکال‌زدایی](#debug--troubleshooting--خطاها-و-اشکال-زدایی)
-* [Team Members | اعضای تیم](#team-members--اعضای-تیم)
-* [Achievements | افتخارات](#achievements--افتخارات)
-* [Contact | تماس](#contact--تماس)
+* [Introduction | مقدمه](#introduction)
+* [How It Works | نحوه عملکرد](#how-it-works)
+* [Samples | نمونه‌ها](#samples)
+* [Installation & Setup | نصب و راه‌اندازی](#installation--setup)
+* [Debug / Troubleshooting | خطاها و اشکال‌زدایی](#debug--troubleshooting)
+* [Team Members | اعضای تیم](#team-members)
+* [Achievements | افتخارات](#achievements)
+* [Contact | تماس](#contact)
 
 ---
 
-## Introduction | مقدمه {#introduction--مقدمه}
+## Introduction | مقدمه
 
 **English:**
 Team 2 is a **Gold Medal Winner** in the **AI Section** of the **Innoverse 2025 International Invention & Innovation Expo**, held on **August 24, 2025**. This expo focused on Metaverse and blockchain technologies and featured over 30 judging categories. Our project converts user emotions (text, voice, image) into symbolic visual artworks using advanced AI technologies:
@@ -39,7 +38,7 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 
 ---
 
-## How It Works | نحوه عملکرد {#how-it-works--نحوه-عملکرد}
+## How It Works | نحوه عملکرد
 
 **English:**
 
@@ -57,7 +56,7 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 
 ---
 
-## Samples | نمونه‌ها {#samples--نمونه‌ها}
+## Samples | نمونه‌ها
 
 **Example | مثال:**
 
@@ -67,7 +66,7 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 
 ---
 
-## Installation & Setup | نصب و راه‌اندازی {#installation--setup--نصب-و-راه‌اندازی}
+## Installation & Setup | نصب و راه‌اندازی
 
 ### Requirements | پیش‌نیازها
 
@@ -109,7 +108,7 @@ python app.py
 
 ---
 
-## Debug / Troubleshooting | خطاها و اشکال‌زدایی {#debug--troubleshooting--خطاها-و-اشکال-زدایی}
+## Debug / Troubleshooting | خطاها و اشکال‌زدایی
 
 ```bash
 # Ollama / Gemma3:4b Errors
@@ -133,7 +132,7 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 
 ---
 
-## Team Members | اعضای تیم {#team-members--اعضای-تیم}
+## Team Members | اعضای تیم
 
 * **Mohammad Mahdi Omidvar**
 * **Mahyar Alizadeh**
@@ -142,7 +141,7 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 
 ---
 
-## Achievements | افتخارات {#achievements--افتخارات}
+## Achievements | افتخارات
 
 **English:**
 
@@ -156,7 +155,7 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 
 ---
 
-## Contact | تماس {#contact--تماس}
+## Contact | تماس
 
 [![Instagram](https://img.shields.io/badge/Instagram-PyQubit-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/PyQubit)
 [![Telegram](https://img.shields.io/badge/Telegram-PyQubit-0088cc?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/PyQubit)
@@ -165,3 +164,4 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 ---
 
 © 2025 **AI Emotion-to-Art Team2** — *Gold Medal Winner, AI Section, Innoverse 2025*
+
