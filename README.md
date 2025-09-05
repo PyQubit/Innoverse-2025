@@ -1,69 +1,81 @@
 # 🎨 AI Emotion-to-Art Team2
 
-Transform Your Emotions into **AI-Generated Artworks**  
-تبدیل احساسات شما به **آثار هنری تولید شده توسط هوش مصنوعی**
+Transform Your Emotions into **AI-Generated Artworks**
+تبدیل احساسات شما به **آثار هنری تولیدشده توسط هوش مصنوعی**
 
 ---
 
 ## 📌 Table of Contents | فهرست مطالب
-- [👋 Introduction | مقدمه](#-introduction--مقدمه)
-- [⚙️ How It Works | نحوه عملکرد](#️-how-it-works--نحوه-عملکرد)
-- [🖼️ Samples | نمونه‌ها](#️-samples--نمونهها)
-- [📥 Installation & Setup | نصب و راه‌اندازی](#-installation--setup--نصب-و-راهاندازی)
-- [🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی](#️-debug--troubleshooting--خطاها-و-اشکالزدایی)
-- [👥 Team Members | اعضای تیم](#-team-members--اعضای-تیم)
+
+* [👋 Introduction | مقدمه](#-introduction--مقدمه)
+* [⚙️ How It Works | نحوه عملکرد](#-how-it-works--نحوه-عملکرد)
+* [🖼️ Samples | نمونه‌ها](#-samples--نمونه‌ها)
+* [📥 Installation & Setup | نصب و راه‌اندازی](#-installation--setup--نصب-و-راه‌اندازی)
+* [🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی](#-debug--troubleshooting--خطاها-و-اشکال‌زدایی)
+* [👥 Team Members | اعضای تیم](#-team-members--اعضای‌تیم)
+* [🏆 Achievements | افتخارات](#-achievements--افتخارات)
 
 ---
 
 ## 👋 Introduction | مقدمه
-**English:**  
-AI Emotion-to-Art Team2 is a project that converts user emotions (**text, voice, or image**) into symbolic visual artworks using modern AI technologies:  
 
-- **Whisper** (speech-to-text)  
-- **Ollama (Gemma3:4b)** (emotion recognition)  
-- **Replicate (Imagen backend)** (art generation)  
+**English:**
+AI Emotion-to-Art Team2 is a **gold-medal winner** in the **AI Section** of the **Innoverse 2025 International Invention & Innovation Expo**. Held on **August 24, 2025**, this expo focused on Metaverse and blockchain technologies and featured over 30 judging categories. Our project converts user emotions (text, voice, image) into symbolic visual artworks using advanced AI technologies:
 
-**فارسی:**  
-پروژه AI Emotion-to-Art Team2 احساسات کاربر (**متن، صدا یا تصویر**) را به آثار هنری نمادین تبدیل می‌کند. این پروژه از فناوری‌های هوش مصنوعی مدرن استفاده می‌کند، شامل:  
+* **Whisper** (speech-to-text)
+* **Ollama (Gemma3:4b)** (emotion recognition)
+* **Replicate (Imagen backend)** (art generation)
 
-- **Whisper** (تبدیل گفتار به متن)  
-- **Ollama (Gemma3:4b)** (تشخیص احساسات)  
-- **Replicate (Imagen backend)** (تولید اثر هنری)  
+Visit the official expo site for more information: [Innoverse 2025](http://innoverse.world)
+
+**فارسی:**
+تیم AI Emotion-to-Art Team2 موفق به کسب **مدال طلا در بخش هوش مصنوعی** در **نمایشگاه بین‌المللی Innoverse 2025** شد. این رویداد در تاریخ **۲۴ آگوست ۲۰۲۵** برگزار شد و تمرکز آن بر فناوری‌های متاورس و بلاک‌چین بوده و در بیش از ۳۰ بخش داوری انجام شد. پروژه ما با استفاده از فناوری‌های پیشرفته هوش مصنوعی، احساسات کاربر (متن، صدا، تصویر) را به آثار بصری نمادین تبدیل می‌کند:
+
+* **Whisper** (تبدیل گفتار به متن)
+* **Ollama (Gemma3:4b)** (تشخیص احساسات)
+* **Replicate (Imagen backend)** (تولید اثر هنری)
+
+برای کسب اطلاعات بیشتر به سایت رسمی مراجعه کنید: [Innoverse 2025](http://innoverse.world)
 
 ---
 
 ## ⚙️ How It Works | نحوه عملکرد
-**English:**  
-1. Provide Emotion → Input a sentence, record your voice, or upload an image.  
-2. Emotion Recognition → The **Gemma3:4b** model classifies your emotion.  
-3. Prompt Generation → A symbolic prompt (under 20 words) is created.  
-4. Art Generation → The prompt is sent to **Replicate** to generate artwork.  
 
-**فارسی:**  
-۱. دریافت احساس → وارد کردن یک جمله، ضبط صدا یا بارگذاری تصویر.  
-۲. تشخیص احساس → مدل **Gemma3:4b** احساس شما را طبقه‌بندی می‌کند.  
-۳. تولید پرامپت → یک پرامپت نمادین (کمتر از ۲۰ کلمه) ساخته می‌شود.  
-۴. تولید هنر → پرامپت به **Replicate** ارسال شده و اثر هنری ایجاد می‌شود.  
+**English:**
+
+1. Provide an emotion (text, voice, or image)
+2. Emotion recognition via **Gemma3:4b** (Ollama)
+3. Generate a symbolic prompt
+4. Use **Replicate** to generate AI artwork
+
+**فارسی:**
+۱. دریافت احساس (متن، صدا، تصویر)
+۲. تشخیص احساس با مدل **Gemma3:4b** (از طریق Ollama)
+۳. تولید یک پرامپت نمادین
+۴. ارسال به **Replicate** برای تولید اثر هنری
 
 ---
 
 ## 🖼️ Samples | نمونه‌ها
-**Example | مثال:**  
 
-| Input | Generated Artwork |
-|-------|-------------------|
-| من قهرمان مسابقات برنامه نویسی شدم | ![Sample](1.png) 
+**English / فارسی (Example):**
+
+| Input                              | Generated Artwork                                   |
+| ---------------------------------- | --------------------------------------------------- |
+| من قهرمان مسابقات برنامه نویسی شدم | <img src="1.png" alt="Sample Artwork" width="600"/> |
 
 ---
 
 ## 📥 Installation & Setup | نصب و راه‌اندازی
 
-### ✅ Requirements | پیش‌نیازها
-- Python **3.13**
-- Ollama with **Gemma3:4b** model installed
-- Replicate API token
+### Requirements | پیش‌نیازها
 
-### ⚡ Setup | راه‌اندازی
+* Python **3.13**
+* Ollama with **Gemma3:4b** model installed
+* Replicate API token
+
+### Setup | راه‌اندازی
+
 ```bash
 # Install Ollama → https://ollama.com/
 # Run: ollama run gemma3:4b
@@ -73,12 +85,12 @@ source env/bin/activate   # (Windows → .\env\Scripts\activate)
 
 pip install openai-whisper replicate ollama gradio
 
-# Export Replicate token
+# Set Replicate API token
 export REPLICATE_API_TOKEN="your_token_here"
 # or (Windows)
 setx REPLICATE_API_TOKEN "your_token_here"
 
-# Run Gradio UI
+# Run Gradio application
 ```
 
 ---
@@ -87,30 +99,46 @@ setx REPLICATE_API_TOKEN "your_token_here"
 
 ```bash
 # Ollama / Gemma3:4b Errors
-“Model not found” → You haven't installed Gemma3:4b
+“Model not found” → Gemma3:4b model not installed
 Fix: ollama run gemma3:4b
 
-“Cannot connect to Ollama” → Ollama service not running
-Fix: Start Ollama desktop app or run ollama serve
+“Cannot connect to Ollama” → Ollama service not active
+Fix: Launch Ollama app or run ollama serve
 
 # Replicate API Errors
-HTTP 401 Unauthorized → Invalid/expired token
+HTTP 401 Unauthorized → Invalid or expired token
 Fix: Generate new token at https://replicate.com/account
 
-Model failed to load → Imagen temporarily unavailable
-Fix: wait or switch to another model
+Model failed to load → Imagen may be temporarily unavailable
+Fix: Wait and retry, or switch to another model
 ```
-
-
-## 👥 Team Members | اعضای تیم
-**English:**  
-- **Mohammad Mahdi Omidvar**  
-- **Mahyar Alizadeh**  
-- **Sogol Tarnabi**  
-- **Arad Chizari**  
 
 ---
 
-© 2025 **AI Emotion-to-Art Team2** — *Innoverse Submission*    
+## 👥 Team Members | اعضای تیم
+
+* **Mohammad Mahdi Omidvar**
+* **Mahyar Alizadeh**
+* **Sogol Tarnabi**
+* **Arad Chizari**
+
+---
+
+## 🏆 Achievements | افتخارات
+
+**English:**
+
+* Gold Medal Winner in **AI Section**, Innoverse 2025 ([Official Results PDF](http://innoverse.world/innoverse%202025%20challenges%20result.pdf))
+* Recognized internationally for an innovative AI project converting emotions into artworks
+
+**فارسی:**
+
+* مدال طلا در **بخش هوش مصنوعی**، Innoverse 2025 ([فایل نتایج رسمی](http://innoverse.world/innoverse%202025%20challenges%20result.pdf))
+* شناخته‌شده در سطح بین‌المللی برای پروژه‌ای نوآورانه که احساسات را به آثار هنری تبدیل می‌کند
+
+---
+
+© 2025 **AI Emotion-to-Art Team2** — *Gold Medal Winner, AI Section, Innoverse 2025*
+
 
   
