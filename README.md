@@ -7,19 +7,19 @@ Transform Your Emotions into **AI-Generated Artworks**
 
 ## 📌 Table of Contents | فهرست مطالب
 
-* [👋 Introduction | مقدمه](#Introduction)
-* [⚙️ How It Works | نحوه عملکرد](#how-it-works)
+* [👋 Introduction | مقدمه](#introduction)
 * [🖼️ Samples | نمونه‌ها](#samples)
-* [📥 Installation & Setup | نصب و راه‌اندازی](#installation--setup)
-* [🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی](#debug--troubleshooting)
+* [📥 Installation & Setup | نصب و راه‌اندازی](#installation-setup)
+* [🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی](#debug-troubleshooting)
 * [👥 Team Members | اعضای تیم](#team-members)
 * [🏆 Achievements | افتخارات](#achievements)
 * [📱 Contact | تماس](#contact)
 
 ---
 
-## 👋 Introduction | مقدمه 
+<a id="introduction"></a>
 
+## 👋 Introduction | مقدمه
 
 **English:**
 Team 2 is a **Gold Medal Winner** in the **AI Section** of the **Innoverse 2025 International Invention & Innovation Expo**, held on **August 24, 2025**. This expo focused on Metaverse and blockchain technologies and featured over 30 judging categories. Our project converts user emotions (text, voice, image) into symbolic visual artworks using advanced AI technologies:
@@ -39,23 +39,7 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 
 ---
 
-## ⚙️ How It Works | نحوه عملکرد
-
-**English:**
-
-1. Provide an emotion (text, voice, or image)
-2. Recognize emotion via **🧠 Gemma3:4b** (Ollama)
-3. Generate a symbolic prompt
-4. Use **🎨 Replicate** to generate AI artwork
-
-**فارسی:**
-
-1. دریافت احساس (متن، صدا، تصویر)
-2. تشخیص احساس با مدل **🧠 Gemma3:4b** (از طریق Ollama)
-3. تولید یک پرامپت نمادین
-4. ارسال به **🎨 Replicate** برای تولید اثر هنری
-
----
+<a id="samples"></a>
 
 ## 🖼️ Samples | نمونه‌ها
 
@@ -66,6 +50,8 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 | من قهرمان مسابقات برنامه نویسی شدم | <img src="1.png" alt="Sample Artwork" width="400"/> |
 
 ---
+
+<a id="installation-setup"></a>
 
 ## 📥 Installation & Setup | نصب و راه‌اندازی
 
@@ -109,6 +95,8 @@ python app.py
 
 ---
 
+<a id="debug-troubleshooting"></a>
+
 ## 🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی
 
 ```bash
@@ -133,6 +121,8 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 
 ---
 
+<a id="team-members"></a>
+
 ## 👥 Team Members | اعضای تیم
 
 * **Mohammad Mahdi Omidvar**
@@ -141,6 +131,8 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 * **Arad Chizari**
 
 ---
+
+<a id="achievements"></a>
 
 ## 🏆 Achievements | افتخارات
 
@@ -155,6 +147,8 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 * شناخته‌شده در سطح بین‌المللی برای پروژه‌ای نوآورانه که احساسات را به آثار هنری تبدیل می‌کند
 
 ---
+
+<a id="contact"></a>
 
 ## 📱 Contact | تماس
 
