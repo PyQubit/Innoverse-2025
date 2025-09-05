@@ -52,7 +52,7 @@ AI Emotion-to-Art Team2 is a project that converts user emotions (**text, voice,
 
 | Input | Generated Artwork |
 |-------|-------------------|
-| من قهرمان مسابقات برنامه نویسی شدم | ![Sample](assest/1.png) 
+| من قهرمان مسابقات برنامه نویسی شدم | ![Sample](1.png) 
 
 ---
 
