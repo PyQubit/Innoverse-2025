@@ -1,7 +1,6 @@
 # 🎨 AI Emotion-to-Art Team2
 
 Transform Your Emotions into **AI-Generated Artworks**
-
 تبدیل احساسات شما به **آثار هنری تولیدشده توسط هوش مصنوعی**
 
 ---
@@ -30,7 +29,7 @@ team 2 is a **gold-medal winner** in the **AI Section** of the **Innoverse 2025 
 Visit the official expo site for more information: [Innoverse 2025](http://innoverse.world)
 
 **فارسی:**
- تیم ما موفق به کسب **مدال طلا در بخش هوش مصنوعی** در **نمایشگاه بین‌المللی Innoverse 2025** شد. این رویداد در تاریخ **۲۴ آگوست ۲۰۲۵** برگزار شد و تمرکز آن بر فناوری‌های متاورس و بلاک‌چین بوده و در بیش از ۳۰ بخش داوری انجام شد. پروژه ما با استفاده از فناوری‌های پیشرفته هوش مصنوعی، احساسات کاربر (متن، صدا، تصویر) را به آثار بصری نمادین تبدیل می‌کند:
+تیم ما موفق به کسب **مدال طلا در بخش هوش مصنوعی** در **نمایشگاه بین‌المللی Innoverse 2025** شد. این رویداد در تاریخ **۲۴ آگوست ۲۰۲۵** برگزار شد و تمرکز آن بر فناوری‌های متاورس و بلاک‌چین بوده و در بیش از ۳۰ بخش داوری انجام شد. پروژه ما با استفاده از فناوری‌های پیشرفته هوش مصنوعی، احساسات کاربر (متن، صدا، تصویر) را به آثار بصری نمادین تبدیل می‌کند:
 
 * **Whisper** (تبدیل گفتار به متن)
 * **Ollama (Gemma3:4b)** (تشخیص احساسات)
@@ -74,10 +73,15 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 * Python **3.13**
 * Ollama with **Gemma3:4b** model installed
 * Replicate API token
+* **FFmpeg** (from `ffmpeg.rar`)
 
 ### Setup | راه‌اندازی
 
 ```bash
+# Step 0: Extract FFmpeg
+# Extract the 'ffmpeg.rar' file into a folder
+# Add the extracted 'bin' folder to your system PATH
+
 # Install Ollama → https://ollama.com/
 # Run: ollama run gemma3:4b
 
@@ -94,7 +98,6 @@ setx REPLICATE_API_TOKEN "your_token_here"
 # Run Gradio application
 ```
 
----
 
 ## 🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی
 
@@ -112,6 +115,10 @@ Fix: Generate new token at https://replicate.com/account
 
 Model failed to load → Imagen may be temporarily unavailable
 Fix: Wait and retry, or switch to another model
+
+# FFmpeg Errors
+"ffmpeg.exe not found" → FFmpeg not installed or not added to PATH
+Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 ```
 
 ---
@@ -140,6 +147,7 @@ Fix: Wait and retry, or switch to another model
 ---
 
 © 2025 **AI Emotion-to-Art Team2** — *Gold Medal Winner, AI Section, Innoverse 2025*
+
 
 
   
