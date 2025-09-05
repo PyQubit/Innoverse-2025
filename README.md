@@ -1,6 +1,7 @@
 # 🎨 AI Emotion-to-Art Team2
 
 Transform Your Emotions into **AI-Generated Artworks**
+
 تبدیل احساسات شما به **آثار هنری تولیدشده توسط هوش مصنوعی**
 
 ---
@@ -20,7 +21,7 @@ Transform Your Emotions into **AI-Generated Artworks**
 ## 👋 Introduction | مقدمه
 
 **English:**
-AI Emotion-to-Art Team2 is a **gold-medal winner** in the **AI Section** of the **Innoverse 2025 International Invention & Innovation Expo**. Held on **August 24, 2025**, this expo focused on Metaverse and blockchain technologies and featured over 30 judging categories. Our project converts user emotions (text, voice, image) into symbolic visual artworks using advanced AI technologies:
+team 2 is a **gold-medal winner** in the **AI Section** of the **Innoverse 2025 International Invention & Innovation Expo**. Held on **August 24, 2025**, this expo focused on Metaverse and blockchain technologies and featured over 30 judging categories. Our project converts user emotions (text, voice, image) into symbolic visual artworks using advanced AI technologies:
 
 * **Whisper** (speech-to-text)
 * **Ollama (Gemma3:4b)** (emotion recognition)
@@ -29,7 +30,7 @@ AI Emotion-to-Art Team2 is a **gold-medal winner** in the **AI Section** of the 
 Visit the official expo site for more information: [Innoverse 2025](http://innoverse.world)
 
 **فارسی:**
-تیم AI Emotion-to-Art Team2 موفق به کسب **مدال طلا در بخش هوش مصنوعی** در **نمایشگاه بین‌المللی Innoverse 2025** شد. این رویداد در تاریخ **۲۴ آگوست ۲۰۲۵** برگزار شد و تمرکز آن بر فناوری‌های متاورس و بلاک‌چین بوده و در بیش از ۳۰ بخش داوری انجام شد. پروژه ما با استفاده از فناوری‌های پیشرفته هوش مصنوعی، احساسات کاربر (متن، صدا، تصویر) را به آثار بصری نمادین تبدیل می‌کند:
+ تیم ما موفق به کسب **مدال طلا در بخش هوش مصنوعی** در **نمایشگاه بین‌المللی Innoverse 2025** شد. این رویداد در تاریخ **۲۴ آگوست ۲۰۲۵** برگزار شد و تمرکز آن بر فناوری‌های متاورس و بلاک‌چین بوده و در بیش از ۳۰ بخش داوری انجام شد. پروژه ما با استفاده از فناوری‌های پیشرفته هوش مصنوعی، احساسات کاربر (متن، صدا، تصویر) را به آثار بصری نمادین تبدیل می‌کند:
 
 * **Whisper** (تبدیل گفتار به متن)
 * **Ollama (Gemma3:4b)** (تشخیص احساسات)
@@ -62,7 +63,7 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 
 | Input                              | Generated Artwork                                   |
 | ---------------------------------- | --------------------------------------------------- |
-| من قهرمان مسابقات برنامه نویسی شدم | <img src="1.png" alt="Sample Artwork" width="600"/> |
+| من قهرمان مسابقات برنامه نویسی شدم | <img src="1.png" alt="Sample Artwork" width="400"/> |
 
 ---
 
