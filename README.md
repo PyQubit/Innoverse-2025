@@ -7,56 +7,56 @@ Transform Your Emotions into **AI-Generated Artworks**
 
 ## 📌 Table of Contents | فهرست مطالب
 
-* [Introduction | مقدمه](#introduction)
-* [How It Works | نحوه عملکرد](#how-it-works)
-* [Samples | نمونه‌ها](#samples)
-* [Installation & Setup | نصب و راه‌اندازی](#installation--setup)
-* [Debug / Troubleshooting | خطاها و اشکال‌زدایی](#debug--troubleshooting)
-* [Team Members | اعضای تیم](#team-members)
-* [Achievements | افتخارات](#achievements)
-* [Contact | تماس](#contact)
+* [👋 Introduction | مقدمه](#introduction)
+* [⚙️ How It Works | نحوه عملکرد](#how-it-works)
+* [🖼️ Samples | نمونه‌ها](#samples)
+* [📥 Installation & Setup | نصب و راه‌اندازی](#installation--setup)
+* [🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی](#debug--troubleshooting)
+* [👥 Team Members | اعضای تیم](#team-members)
+* [🏆 Achievements | افتخارات](#achievements)
+* [📱 Contact | تماس](#contact)
 
 ---
 
-## Introduction | مقدمه
+## 👋 Introduction | مقدمه
 
 **English:**
 Team 2 is a **Gold Medal Winner** in the **AI Section** of the **Innoverse 2025 International Invention & Innovation Expo**, held on **August 24, 2025**. This expo focused on Metaverse and blockchain technologies and featured over 30 judging categories. Our project converts user emotions (text, voice, image) into symbolic visual artworks using advanced AI technologies:
 
-* **Whisper** – Speech-to-text
-* **Ollama (Gemma3:4b)** – Emotion recognition
-* **Replicate (Imagen backend)** – Art generation
+* **🎤 Whisper** – Speech-to-text
+* **🧠 Ollama (Gemma3:4b)** – Emotion recognition
+* **🎨 Replicate (Imagen backend)** – Art generation
 
 Visit the official expo site for more information: [Innoverse 2025](http://innoverse.world)
 
 **فارسی:**
 تیم ما موفق به کسب **مدال طلا در بخش هوش مصنوعی** در **نمایشگاه بین‌المللی Innoverse 2025** شد. این رویداد در تاریخ **۲۴ آگوست ۲۰۲۵** برگزار شد و تمرکز آن بر فناوری‌های متاورس و بلاک‌چین بوده و در بیش از ۳۰ بخش داوری انجام شد. پروژه ما با استفاده از فناوری‌های پیشرفته هوش مصنوعی، احساسات کاربر (متن، صدا، تصویر) را به آثار بصری نمادین تبدیل می‌کند:
 
-* **Whisper** – تبدیل گفتار به متن
-* **Ollama (Gemma3:4b)** – تشخیص احساسات
-* **Replicate (Imagen backend)** – تولید اثر هنری
+* **🎤 Whisper** – تبدیل گفتار به متن
+* **🧠 Ollama (Gemma3:4b)** – تشخیص احساسات
+* **🎨 Replicate (Imagen backend)** – تولید اثر هنری
 
 ---
 
-## How It Works | نحوه عملکرد
+## ⚙️ How It Works | نحوه عملکرد
 
 **English:**
 
 1. Provide an emotion (text, voice, or image)
-2. Recognize emotion via **Gemma3:4b** (Ollama)
+2. Recognize emotion via **🧠 Gemma3:4b** (Ollama)
 3. Generate a symbolic prompt
-4. Use **Replicate** to generate AI artwork
+4. Use **🎨 Replicate** to generate AI artwork
 
 **فارسی:**
 
 1. دریافت احساس (متن، صدا، تصویر)
-2. تشخیص احساس با مدل **Gemma3:4b** (از طریق Ollama)
+2. تشخیص احساس با مدل **🧠 Gemma3:4b** (از طریق Ollama)
 3. تولید یک پرامپت نمادین
-4. ارسال به **Replicate** برای تولید اثر هنری
+4. ارسال به **🎨 Replicate** برای تولید اثر هنری
 
 ---
 
-## Samples | نمونه‌ها
+## 🖼️ Samples | نمونه‌ها
 
 **Example | مثال:**
 
@@ -66,14 +66,14 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 
 ---
 
-## Installation & Setup | نصب و راه‌اندازی
+## 📥 Installation & Setup | نصب و راه‌اندازی
 
 ### Requirements | پیش‌نیازها
 
 * Python **3.13**
-* Ollama with **Gemma3:4b** model installed
+* Ollama with **🧠 Gemma3:4b** model installed
 * Replicate API token
-* **FFmpeg** (from `ffmpeg.rar`)
+* **🎬 FFmpeg** (from `ffmpeg.rar`)
 
 ### Setup | راه‌اندازی
 
@@ -108,7 +108,7 @@ python app.py
 
 ---
 
-## Debug / Troubleshooting | خطاها و اشکال‌زدایی
+## 🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی
 
 ```bash
 # Ollama / Gemma3:4b Errors
@@ -132,7 +132,7 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 
 ---
 
-## Team Members | اعضای تیم
+## 👥 Team Members | اعضای تیم
 
 * **Mohammad Mahdi Omidvar**
 * **Mahyar Alizadeh**
@@ -141,7 +141,7 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 
 ---
 
-## Achievements | افتخارات
+## 🏆 Achievements | افتخارات
 
 **English:**
 
@@ -155,7 +155,7 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 
 ---
 
-## Contact | تماس
+## 📱 Contact | تماس
 
 [![Instagram](https://img.shields.io/badge/Instagram-PyQubit-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/PyQubit)
 [![Telegram](https://img.shields.io/badge/Telegram-PyQubit-0088cc?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/PyQubit)
