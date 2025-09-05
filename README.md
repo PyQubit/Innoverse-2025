@@ -50,9 +50,9 @@ AI Emotion-to-Art Team2 is a project that converts user emotions (**text, voice,
 ## 🖼️ Samples | نمونه‌ها
 **Example | مثال:**  
 
-| Input | Generated Artwork | ورودی | خروجی |
-|-------|-------------------|-------|-------|
-| من قهرمان مسابقات برنامه نویسی شدم | ![Sample](assest/1.png) | متن فارسی | اثر هنری تولید شده |
+| Input | Generated Artwork |
+|-------|-------------------|
+| من قهرمان مسابقات برنامه نویسی شدم | ![Sample](assest/1.png) 
 
 ---
 
@@ -85,7 +85,6 @@ setx REPLICATE_API_TOKEN "your_token_here"
 
 ## 🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی
 
-**English:**  
 ```bash
 # Ollama / Gemma3:4b Errors
 “Model not found” → You haven't installed Gemma3:4b
@@ -102,24 +101,6 @@ Model failed to load → Imagen temporarily unavailable
 Fix: wait or switch to another model
 ```
 
-**فارسی:**  
-```bash
-# خطاهای Ollama / Gemma3:4b
-“مدل پیدا نشد” → مدل Gemma3:4b نصب نشده است  
-راه‌حل: ollama run gemma3:4b
-
-“اتصال برقرار نشد” → سرویس Ollama فعال نیست  
-راه‌حل: اجرای نرم‌افزار Ollama یا دستور ollama serve
-
-# خطاهای Replicate API
-HTTP 401 Unauthorized → توکن نامعتبر یا منقضی شده  
-راه‌حل: ایجاد توکن جدید در https://replicate.com/account
-
-“بارگذاری مدل ناموفق بود” → سرویس Imagen موقتاً در دسترس نیست  
-راه‌حل: کمی صبر کنید یا از مدل دیگری استفاده کنید
-```
-
----
 
 ## 👥 Team Members | اعضای تیم
 **English:**  
