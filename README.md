@@ -1,7 +1,6 @@
 # 🎨 AI Emotion-to-Art Team2
 
 Transform Your Emotions into **AI-Generated Artworks**
-
 تبدیل احساسات شما به **آثار هنری تولیدشده توسط هوش مصنوعی**
 
 ---
@@ -21,22 +20,22 @@ Transform Your Emotions into **AI-Generated Artworks**
 ## 👋 Introduction | مقدمه
 
 **English:**
-team 2 is a **gold-medal winner** in the **AI Section** of the **Innoverse 2025 International Invention & Innovation Expo**. Held on **August 24, 2025**, this expo focused on Metaverse and blockchain technologies and featured over 30 judging categories. Our project converts user emotions (text, voice, image) into symbolic visual artworks using advanced AI technologies:
+Team 2 is a **Gold Medal Winner** in the **AI Section** of the **Innoverse 2025 International Invention & Innovation Expo**, held on **August 24, 2025**. This expo focused on Metaverse and blockchain technologies and featured over 30 judging categories. Our project converts user emotions (text, voice, image) into symbolic visual artworks using advanced AI technologies:
 
-* **Whisper** (speech-to-text)
-* **Ollama (Gemma3:4b)** (emotion recognition)
-* **Replicate (Imagen backend)** (art generation)
+* **Whisper** – Speech-to-text
+* **Ollama (Gemma3:4b)** – Emotion recognition
+* **Replicate (Imagen backend)** – Art generation
 
 Visit the official expo site for more information: [Innoverse 2025](http://innoverse.world)
 
 **فارسی:**
 تیم ما موفق به کسب **مدال طلا در بخش هوش مصنوعی** در **نمایشگاه بین‌المللی Innoverse 2025** شد. این رویداد در تاریخ **۲۴ آگوست ۲۰۲۵** برگزار شد و تمرکز آن بر فناوری‌های متاورس و بلاک‌چین بوده و در بیش از ۳۰ بخش داوری انجام شد. پروژه ما با استفاده از فناوری‌های پیشرفته هوش مصنوعی، احساسات کاربر (متن، صدا، تصویر) را به آثار بصری نمادین تبدیل می‌کند:
 
-* **Whisper** (تبدیل گفتار به متن)
-* **Ollama (Gemma3:4b)** (تشخیص احساسات)
-* **Replicate (Imagen backend)** (تولید اثر هنری)
+* **Whisper** – تبدیل گفتار به متن
+* **Ollama (Gemma3:4b)** – تشخیص احساسات
+* **Replicate (Imagen backend)** – تولید اثر هنری
 
-برای کسب اطلاعات بیشتر به سایت رسمی مراجعه کنید: [Innoverse 2025](http://innoverse.world)
+برای اطلاعات بیشتر به سایت رسمی مراجعه کنید: [Innoverse 2025](http://innoverse.world)
 
 ---
 
@@ -45,21 +44,22 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 **English:**
 
 1. Provide an emotion (text, voice, or image)
-2. Emotion recognition via **Gemma3:4b** (Ollama)
+2. Recognize emotion via **Gemma3:4b** (Ollama)
 3. Generate a symbolic prompt
 4. Use **Replicate** to generate AI artwork
 
 **فارسی:**
-۱. دریافت احساس (متن، صدا، تصویر)
-۲. تشخیص احساس با مدل **Gemma3:4b** (از طریق Ollama)
-۳. تولید یک پرامپت نمادین
-۴. ارسال به **Replicate** برای تولید اثر هنری
+
+1. دریافت احساس (متن، صدا، تصویر)
+2. تشخیص احساس با مدل **Gemma3:4b** (از طریق Ollama)
+3. تولید یک پرامپت نمادین
+4. ارسال به **Replicate** برای تولید اثر هنری
 
 ---
 
 ## 🖼️ Samples | نمونه‌ها
 
-**English / فارسی (Example):**
+**Example | مثال:**
 
 | Input                              | Generated Artwork                                   |
 | ---------------------------------- | --------------------------------------------------- |
@@ -80,25 +80,34 @@ Visit the official expo site for more information: [Innoverse 2025](http://innov
 
 ```bash
 # Step 0: Extract FFmpeg
-# Extract the 'ffmpeg.rar' file into a folder
-# Add the extracted 'bin' folder to your system PATH
+# Extract 'ffmpeg.rar' into a folder
+# Add the 'bin' folder inside the extracted folder to your system PATH
 
 # Install Ollama → https://ollama.com/
 # Run: ollama run gemma3:4b
 
+# Create virtual environment
 python -m venv env
-source env/bin/activate   # (Windows → .\env\Scripts\activate)
+# Activate virtual environment
+# Linux / macOS
+source env/bin/activate
+# Windows
+.\env\Scripts\activate
 
+# Install required Python packages
 pip install openai-whisper replicate ollama gradio
 
 # Set Replicate API token
+# Linux / macOS
 export REPLICATE_API_TOKEN="your_token_here"
-# or (Windows)
+# Windows
 setx REPLICATE_API_TOKEN "your_token_here"
 
 # Run Gradio application
+python app.py
 ```
 
+---
 
 ## 🛠️ Debug / Troubleshooting | خطاها و اشکال‌زدایی
 
@@ -118,7 +127,7 @@ Model failed to load → Imagen may be temporarily unavailable
 Fix: Wait and retry, or switch to another model
 
 # FFmpeg Errors
-"ffmpeg.exe not found" → FFmpeg not installed or not added to PATH
+"ffmpeg.exe not found" → FFmpeg not installed or not in PATH
 Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 ```
 
@@ -148,6 +157,7 @@ Fix: Extract 'ffmpeg.rar' and add the 'bin' folder to your system PATH
 ---
 
 © 2025 **AI Emotion-to-Art Team2** — *Gold Medal Winner, AI Section, Innoverse 2025*
+
 
 
 
